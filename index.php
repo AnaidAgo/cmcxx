@@ -10,8 +10,8 @@
 	  <title>Portal do Conselho Municipal da Cidade de Xai-Xai</title>
 	  
 	  
-	   <link rel="shortcut icon" type="image/icon" href="img/icon.png"/>
-	   <link rel="stylesheet" href="css/mcxx.css"/>
+	   <link rel="shortcut icon" type="image/icon" href="icon.png"/>
+	   <link rel="stylesheet" href="mcxx.css"/>
 	 
 	 
      <script type="text/javascript" src="js/sliplujqy/jquery-1.12.0.min.js"></script>
@@ -71,7 +71,7 @@ document.write ("<p> " + dayName[now.getDay() ] + ", " + now.getDate () + " de "
 
 
  <div id="topcontexto">
-<h1><a href="index.html"> <img src="img/logotipo.png" alt="Conselho Municipal da Cidade de Xai-Xai" class="logo" title="pagina Inicial"/> </a></h1>
+<h1><a href="index.html"> <img src="logotipo.png" alt="Conselho Municipal da Cidade de Xai-Xai" class="logo" title="pagina Inicial"/> </a></h1>
 
 
 
@@ -122,25 +122,25 @@ document.write ("<p> " + dayName[now.getDay() ] + ", " + now.getDate () + " de "
 
  <div id="slides">
   <ul class="listaimagem">
-  	<li><a href="#"><img src="img/01.png" class="imgslide" alt="foto"/></a>
+  	<li><a href="#"><img src="01.png" class="imgslide" alt="foto"/></a>
     <p class="slidelink"><a href="presidente-no2.html">Governação do Edil Ernesto Chambisse, que viu a sua imagem, figura angariar mais simpatia dos Munícipes e naturalmente choveu naquele salão uma forte salva de (palmas)</a>
     </p>
     </li>
      
-	<li> <a href="#"><img src="img/02.png" class="imgslide" alt="foto"/> </a>     
+	<li> <a href="#"><img src="02.png" class="imgslide" alt="foto"/> </a>     
      <p class="slidelink"><a href="presidente-no1.html">O Edil Ernesto Daniel Chambisse no Cumprimento de mais uma promessa atinente ao seu manifesto eleitoral</a>
     </p>
     </li>
     
-	<li> <a href="#"><img src="img/03.png" class="imgslide" alt="foto"/> </a>   
+	<li> <a href="#"><img src="03.png" class="imgslide" alt="foto"/> </a>   
       <p class="slidelink"><a href="presidente-no.html">No âmbito da campanha eleitoral autárquica de Novembro de 2013, o Glorioso Partido Frelimo, apostou num jovem académico, astucioso, materializador</a></p>
     </li>
 </ul>
 
  </div>
  <p class="central">
-<a href="#" id="previous"><img src="img/anterior.png" alt="Anterior" title="Anterior"/></a> 
-<a href="#" id="next"><img src="img/proximo.png" alt="Proxima" title="Proxima"/></a>
+<a href="#" id="previous"><img src="anterior.png" alt="Anterior" title="Anterior"/></a> 
+<a href="#" id="next"><img src="proximo.png" alt="Proxima" title="Proxima"/></a>
 </p>
 
  </div>
@@ -267,9 +267,9 @@ Por uma cidade bela, próspera e livre da pobreza, Chambisse i hossy, paz
 <div class="destaque">
 <h2 class="centro">Destaque Semanal</h2>
 
-<div class="dtq"> <a href="destaque/presidente-do-cmxx-no.html">
+<div class="dtq"> <a href="#">
  <!-- IMAGEM DA NOTICIA DEVE TER 512PX DE LARGURA E 512PX DE COMPRIMENTO-->
-<img src="destaque/img/presidente-no-projecto-um-aluno-uma-arvore.jpg" class="destafoto" alt="editar" />
+<img src="presidente-no-projecto-um-aluno-uma-arvore.jpg" class="destafoto" alt="editar" />
 Isto expressa alguma noticia e &eacute; link, pode ser coisas de
  semana como seminarios, eventos,etc </a>
 </div>
@@ -278,8 +278,8 @@ Isto expressa alguma noticia e &eacute; link, pode ser coisas de
 <br/>
 
  
-<div class="dtq"> <a href="destaque/presidente-do-mcxx-na-obra-de.html">
-<img src="destaque/img/presidente-do-mcxx-na-obra-de.jpg" class="destafoto" alt="editar" />
+<div class="dtq"> <a href="#">
+<img src="presidente-do-mcxx-na-obra-de.jpg" class="destafoto" alt="editar" />
 Isto expressa alguma noticia e &eacute; link, pode ser coisas de
  semana como seminarios, eventos,etc </a>
 </div>
@@ -288,18 +288,18 @@ Isto expressa alguma noticia e &eacute; link, pode ser coisas de
 <br/>
  
  
- <div class="dtq"> <a href="horandos-senhores-membros.html">
+ <div class="dtq"> <a href="#">
   <!-- IMAGEM DA NOTICIA DEVE TER 512PX DE LARGURA E 512PX DE COMPRIMENTO-->
-<img src="destaque/img/horandos-senhores-membros.jpg" class="destafoto" alt="editar" />
+<img src="horandos-senhores-membros.jpg" class="destafoto" alt="editar" />
 Isto expressa alguma noticia e &eacute; link, pode ser coisas de
  semana como seminarios, eventos,etc </a>
 </div>
 
 <br/>
  <br/>
- <div class="dtq"> <a href="presidente-do-mcxx-recebi-uma-visita-do.html">
+ <div class="dtq"> <a href="#">
  <!-- IMAGEM DA NOTICIA DEVE TER 512PX DE LARGURA E 512PX DE COMPRIMENTO-->
-<img src="destaque/img/presidente-do-mcxx-recebi-uma-visita-do.jpg" class="destafoto" alt="editar" />
+<img src="presidente-do-mcxx-recebi-uma-visita-do.jpg" class="destafoto" alt="editar" />
 Isto expressa alguma noticia e &eacute; link, pode ser coisas de
  semana como seminarios, eventos,etc</a>
 </div>
@@ -309,7 +309,7 @@ Isto expressa alguma noticia e &eacute; link, pode ser coisas de
 
  <div class="dtq"> <a href="#">
   <!-- IMAGEM DA NOTICIA DEVE TER 512PX DE LARGURA E 512PX DE COMPRIMENTO-->
-<img src="destaque/img/presidente-do-mcxx-no.jpg" class="destafoto" alt="editar" />
+<img src="presidente-do-mcxx-no.jpg" class="destafoto" alt="editar" />
 Isto expressa alguma noticia e &eacute; link, pode ser coisas de
  semana como seminarios, eventos,etc </a>
 </div>
@@ -406,15 +406,15 @@ Xai-Xai e belo, lindo, maravilhoso.</span>
 	 CMCXX</acronym> nas Redes Sociais </h3><hr class="hr"/> 
 
  	 <div class="noleft">
-	 <a href="https://www.facebook.com/Conselho-Municipal-da-cidade-de-Xai-Xai-297995003741886" target="_blank"> <img src="img/facebook.png" width="30px" height="30px" alt="Facebook do CMCXX"/></a>
+	 <a href="https://www.facebook.com/Conselho-Municipal-da-cidade-de-Xai-Xai-297995003741886" target="_blank"> <img src="facebook.png" width="30px" height="30px" alt="Facebook do CMCXX"/></a>
 	 </div>
 
 	  <div class="noleft">
-	  <a href="http://www.twitter.com/CMCXX" target="_blank"> <img src="img/twitter.png" width="30px" alt="Twitter do CMCXX" height="30px"/> </a>
+	  <a href="http://www.twitter.com/CMCXX" target="_blank"> <img src="twitter.png" width="30px" alt="Twitter do CMCXX" height="30px"/> </a>
 	  </div>
 
  	  <div class="noleft">
-	  <a href="http://www.youtube.com/CMCXX" target="_blank"> <img src="img/youtube.png" width="30px" height="30px" alt="Youtube da CMCXX" /></a>
+	  <a href="http://www.youtube.com/CMCXX" target="_blank"> <img src="youtube.png" width="30px" height="30px" alt="Youtube da CMCXX" /></a>
 </div>
 
 
